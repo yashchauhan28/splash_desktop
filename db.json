@@ -1,50 +1,14 @@
 [
   {
-    "name": "CS1",
-    "summary": "Summary1",
-    "userCount": "50",
-    "subCentreId": "1",
-    "tableData": [
-      {
-        "ssId": "1",
-        "slots": "50"
-      },
-      {
-        "ssId": "2",
-        "slots": "50"
-      }
-    ]
+    "id": 1,
+    "title": "Post 1"
   },
   {
-    "name": "CS2",
-    "summary": "Summary2",
-    "userCount": "50",
-    "subCentreId": "1",
-    "tableData": [
-      {
-        "ssId": "1",
-        "slots": "50"
-      },
-      {
-        "ssId": "2",
-        "slots": "50"
-      }
-    ]
+    "id": 2,
+    "title": "Post 2"
   },
   {
-    "name": "CS3",
-    "summary": "Summary3",
-    "userCount": "50",
-    "subCentreId": "1",
-    "tableData": [
-      {
-        "ssId": "1",
-        "slots": "50"
-      },
-      {
-        "ssId": "2",
-        "slots": "50"
-      }
-    ]
+    "id": 3,
+    "title": "Post 3"
   }
 ]
