@@ -1,7 +1,17 @@
 [
   {
     "id": 1,
-    "title": "Post 1"
+    "title": "Post 1",
+    "table": [
+      {
+        "ssId": "1",
+        "slots": "50"
+      },
+      {
+        "ssId": "2",
+        "slots": "50"
+      }
+    ]
   },
   {
     "id": 2,
